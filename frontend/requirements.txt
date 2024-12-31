@@ -1,3 +1,0 @@
-axios
-tailwindcss
-web-vitals
