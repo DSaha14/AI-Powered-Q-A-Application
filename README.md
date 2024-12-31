@@ -10,8 +10,10 @@ This project is a web application that allows users to ask questions and receive
 
 ## Setup Instructions
 1. Clone the repository. 
-2. Install dependencies mentioned in the requirements.txt file.
-3. Run the application.
+2. Install dependencies mentioned in the requirements.txt file for backend.
+3. Install dependencies like axios, web-vitals for frontend.
+4. Replace & Use your own cohere api key. 
+5. Run the application.
 
 ## Tech-Stack used
 - **Frontend**: React.js, Tailwind CSS
