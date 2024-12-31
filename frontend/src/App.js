@@ -9,7 +9,7 @@ const App = () => {
   const [history, setHistory] = useState([]);
   const [error, setError] = useState("");
 
-  const BACKEND_URL = "http://127.0.0.1:8000"; // Change this if your backend runs on a different host/port
+  const BACKEND_URL = "https://ai-powered-q-a-application.onrender.com"; // Change this if your backend runs on a different host/port
 
   const fetchHistory = async () => {
     try {
